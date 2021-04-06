@@ -92,21 +92,14 @@ def load():
 ###logo###
 
 logo =""" \033[97m
- _______  _______ _________
-(  ____ \(  ___  )\__   __/
-| (    \/| (   ) |   ) (   
-| |      | (___) |   | |   
-| |      |  ___  |   | |   
-| |      | (   ) |   | |   
-| (____/\| )   ( |   | |   
-(_______/|/     \|   )_(   
+ FOX 
                            
  
    ##########################
-    #  TELEGRAM \ @LO1STT
-    #  Auther \ Lost-Zed
-    #  SITE  \ https://instabio.cc/LostSoftwere
-    #  TELGRAM CHANELL    \ @LO1STT1
+    #  TELEGRAM \ @i4m_fox
+    #  Auther \ Fox
+    # group\ @foxcracking
+    #  TELGRAM CHANELL\ @fox_cracking
     #  Program language Python
     #  (:
     # TOOL :  FACEBOOK HACK
